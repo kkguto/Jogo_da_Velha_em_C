@@ -1,10 +1,3 @@
-/*
-Criando um tabuleiro de Jogo da Velha:
-
-Crie um tabuleiro de jogo da velha, usando uma matrizes de caracteres (char) 3�3, onde o usu�rio pede o n�mero da linha (1 at� 3) e o da coluna (1 at� 3). 
-A cada vez que o usu�rio entrar com esses dados, colocar um �X� ou �O� no local selecionado.
-*/
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
